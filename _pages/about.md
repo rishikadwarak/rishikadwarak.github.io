@@ -52,7 +52,7 @@ I am always open to collaboration on new projects. If you would like to discuss 
 </div>
 </div> </li>
 
-<li><a href="/publications/CSCW2024_ECHO_Paper.pdf">ECHO: An Automated Contextual Inquiry Framework for Anonymous Qualitative Studies using Conversational Assistants</a>.<br>Rishika Dwaraghanath, Rahul Majethia, Sanjana Gautam<br>
+<li><a href="/publications/Rishika_ECHO.pdf">ECHO: An Automated Contextual Inquiry Framework for Anonymous Qualitative Studies using Conversational Assistants</a>.<br>Rishika Dwaraghanath, Rahul Majethia, Sanjana Gautam<br>
 </li>
 </ul>
 
