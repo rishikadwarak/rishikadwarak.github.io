@@ -75,14 +75,13 @@ When I'm not immersed in my work, you'll likely find me at the gym, planning my 
  <div style="display: flex; justify-content: space-between; align-items: center;">
    <div>
      <strong>Hewlett Packard Enterprise</strong><br>
-     <em>Machine Learning R&D Engineer, HPE Compute</em><br>
+     <em>Machine Learning R&D Engineer, <a href= "https://www.hpe.com/in/en/compute.html?jumpid=ps_n1q8y6im2_aid-520074550&ef_id=Cj0KCQjw4vKpBhCZARIsAOKHoWQXHniVf189y4-N_ZR73lKUn9KmNZlZ_rhm0PZGZCKwBR68fUj6vckaAotDEALw_wcB:G:s&s_kwcid=AL!13472!3!657075069960!e!!g!!hpe%20compute!19913506792!148246418066&" target="_blank">HPE Compute</a></em><br>
    </div>
    <div style="text-align: right;">
      Aug 2022 – May 2024<br>
      <em>Bangalore, India</em>
    </div>
  </div>
-
 
  <ul>
    <li>Developed ML & data warehousing solutions within the Data Engineering & Analytics team to effectively store and manage HPE Infosight server data using the ELK stack.</li>
@@ -94,7 +93,7 @@ When I'm not immersed in my work, you'll likely find me at the gym, planning my 
 
  <div style="display: flex; justify-content: space-between; align-items: center;">
    <div>
-     <em>R&D Intern, HPE Storage</em><br>
+     <em>R&D Intern, <a href="https://www.hpe.com/in/en/storage.html?jumpid=ps_wjhuvxh1w_aid-520074550&ef_id=Cj0KCQjw4vKpBhCZARIsAOKHoWRBGArA0MM0DnHr_p7WdwrgxtXIChcxMamt8NAC4SQLb57SuwA8MWcaAvL1EALw_wcB:G:s&s_kwcid=AL!13472!3!653027996876!e!!g!!hpe%20storage!19913506792!147852216699&" target="_blank">HPE Storage</a></em><br>
    </div>
    <div style="text-align: right;">
      Jan – Jul 2022<br>
@@ -114,7 +113,7 @@ When I'm not immersed in my work, you'll likely find me at the gym, planning my 
  <div style="display: flex; justify-content: space-between; align-items: center;">
    <div>
      <strong>KPMG India</strong><br>
-     <em>Data Science Intern, KPMG Digital Lighthouse</em><br>
+     <em>Data Science Intern, <a href="https://kpmg.com/sa/en/home/insights/2021/05/lighthouse.html" target="_blank">KPMG Digital Lighthouse</a></em><br>
    </div>
    <div style="text-align: right;">
      Jun - Aug 2021<br>
@@ -124,7 +123,7 @@ When I'm not immersed in my work, you'll likely find me at the gym, planning my 
 
 
  <ul>
-   <li>Analyzed phishing URL patterns to devise a Levenshtein distance-based algorithm to enhance phishing URL detection accuracy by 30% for the KPMG Digital Signals Insights Platform (DSIP).</li>
+   <li>Analyzed phishing URL patterns to devise a Levenshtein distance-based algorithm to enhance phishing URL detection accuracy by 30% for the <a href="https://dsip.kpmg.com/" target="_blank">KPMG Digital Signals Insights Platform</a> (DSIP).</li>
    <li>Introduced multilingual capabilities in the fraud detection pipeline to detect and flag punycode phishing URLs.</li>
    <li>Built & integrated a PII microservice module into the DSIP platform to ensure GDPR compliance for key customers.</li>
  </ul>
@@ -157,7 +156,7 @@ When I'm not immersed in my work, you'll likely find me at the gym, planning my 
  <div style="display: flex; justify-content: space-between; align-items: center;">
    <div>
      <strong>The Alan Turing Institute </strong><br>
-     <em>Researcher, Turing Data Study Group </em><br>
+     <em>Researcher, <a href="https://www.birmingham.ac.uk/research/data-science/turing/dsg-participate.aspx" target="_blank">Turing Data Study Group</a> </em><br>
    </div>
    <div style="text-align: right;">
      May 2022<br>
@@ -324,22 +323,25 @@ stand-alone and MultiOS environments.</li>
 
 
 ## Achievements
-- Global Finalist, KPMG Ideation Challenge 2021 - Represented Team India in the Global Finals after qualifying from among 12000 teams nation-wide
-- Recipient of Grace Hopper Celebration Student Scholarship, EMEA 2021
-- Recipient of the WeTech Goldman Sachs Global Mentorship Program 2020 Award
-- National Finalist, Smart India Hackathon 2020
+- Global Finalist, KPMG Ideation Challenge 2021 - Represented [Team India](https://www.linkedin.com/posts/kpmgindia_braille-kpmgic-activity-6787359392518938624-6cPi/) in the Global Finals after qualifying from among 12000 teams nation-wide
+- Recipient of [Grace Hopper Celebration Student Scholarship](https://ghc.anitab.org/ghc-emea-home/student-scholarships), EMEA 2021
+- Recipient of the [WeTech Goldman Sachs Global Mentorship Program](https://www.iie.org/programs/wetech/stem-scholarships-for-women/goldman-sachs-scholarship/) 2020 Award
+- National Finalist, [Smart India Hackathon](https://www.sih.gov.in/) 2020
+
+
 
 
 ## Clubs & Community Building
 
 
 - **Chair, ACM-W Shiv Nadar University Chapter 2020-2021** 
- - Launched and led the 'Women in Tech' talk series to promote mentorship and skill development for female students 
- - Organized HackData 5.0, Shiv Nadar University’s annual 48-hour inter-college hackathon
+  - Launched and led the 'Women in Tech' talk series to promote mentorship and skill development for female students.
+  - Started and led a special interest group for Machine Learning under ACM, SNU Chapter to promote peer learning and targeted skill development among students. 
+  - Organized HackData 5.0, Shiv Nadar University’s annual 48-hour inter-college hackathon.
 
 
-- **Head of App Development, Google Developer Student Club Shiv Nadar University 2020-21** 
- - Led a team of 30 student volunteers to create impactful mobile apps for the student community and university stakeholders
+- **Head of App Development, [Google Developer Student Clubs Shiv Nadar University](https://gdg.community.dev/shiv-nadar-university/) 2020-21** 
+  - Led a team of 30 student volunteers to create impactful mobile apps for the student community and university stakeholders.
 
 
 - App Development Lead, Surge - Shiv Nadar University Sports Fest 2021
